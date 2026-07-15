@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dryram3n/awayward-releases/releases/latest"><img src="https://img.shields.io/badge/latest-v0.8.45b-2ea44f?style=flat-square" alt="Latest release"></a>
+  <a href="https://github.com/dryram3n/awayward-releases/releases/latest"><img src="https://img.shields.io/badge/latest-v0.8.46b-2ea44f?style=flat-square" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android-0078D6?style=flat-square" alt="Windows, macOS, Linux, Android">
   <img src="https://img.shields.io/badge/built%20with-Godot%204.7-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4.7">
 </p>
