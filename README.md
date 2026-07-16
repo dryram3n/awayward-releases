@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/awayward-banner.webp" alt="AwayWard" width="100%">
+  <img src="assets/awayward-vista.png" alt="A moonlit road winding toward the world of AwayWard" width="100%">
 </p>
 
 <h1 align="center">AwayWard (Godot Edition)</h1>
@@ -130,7 +130,7 @@ AwayWard started as a Discord bot and is now a complete standalone game. The com
 ---
 
 <p align="center">
-  <img src="assets/awayward-logo.webp" alt="AwayWard mascot" width="120">
+  <img src="assets/awayward-icon.png" alt="AwayWard pixel emblem" width="120">
 </p>
 
 <p align="center">
