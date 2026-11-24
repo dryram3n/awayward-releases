@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://github.com/dryram3n/awayward-releases/releases/latest/download/AwayWard-linux-latest.tar.gz"><img src="https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=linux&logoColor=white" alt="Download for Linux"></a>
   &nbsp;
-  <a href="https://github.com/dryram3n/awayward-releases/releases/latest/download/AwayWard-android-latest.apk"><img src="https://img.shields.io/badge/Android-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
+  <a href="https://github.com/dryram3n/awayward-releases/releases/tag/v0.15b"><img src="https://img.shields.io/badge/Android-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
 </p>
 
 <p align="center">
@@ -54,7 +54,9 @@ No installer, no account required. Grab your platform above, or pick a version f
 
 ### Android
 
-1. **Download** [`AwayWard-android-latest.apk`](https://github.com/dryram3n/awayward-releases/releases/latest/download/AwayWard-android-latest.apk) on your device (arm64, Android 7.0+).
+> The v0.16b Android build is still being prepared. Until it is published, this link serves the **v0.15b** APK; everything else on this page is v0.16b.
+
+1. **Download** [`AwayWard-android-v0.15b.apk`](https://github.com/dryram3n/awayward-releases/releases/download/v0.15b/AwayWard-android-v0.15b.apk) on your device (arm64, Android 7.0+).
 2. Open the APK and allow your browser or file manager to **install unknown apps** when prompted. The APK is signed and asks for the Internet permission only.
 
 The mobile build is the full game behind a touch-first UI: drawer navigation, long-press tooltips, back-button navigation, and layouts tailored to both portrait and landscape.
@@ -72,17 +74,17 @@ A live backend powers real player-to-player systems: a cross-player market, co-o
 It began life as a Discord bot and grew into a full 2D game built with Godot 4.7.
 
 <p align="center">
-  <b>10 classes</b> &nbsp;·&nbsp; <b>129 enemies</b> &nbsp;·&nbsp; <b>11 zones</b> &nbsp;·&nbsp; <b>51 pets</b> &nbsp;·&nbsp; <b>60 abilities</b> &nbsp;·&nbsp; <b>38 screens</b>
+  <b>17 classes</b> &nbsp;·&nbsp; <b>349 enemies</b> &nbsp;·&nbsp; <b>31 zones</b> &nbsp;·&nbsp; <b>100 pets</b> &nbsp;·&nbsp; <b>428 abilities</b> &nbsp;·&nbsp; <b>41 screens</b>
 </p>
 
 ---
 
 ## Highlights
 
-- **Idle auto-combat** built on the original game's exact formulas: 129 enemies, five elite spawn variants, enemy hoards, and offline progress that banks while you are away.
+- **Idle auto-combat** built on the original game's exact formulas: 349 enemies, five elite spawn variants, enemy hoards, and offline progress that banks while you are away.
 - **Deep loot and builds:** 6 rarities across 8 gear slots, procedural affixes, themed boss sets, and a Runeforge with 13 runewords, sockets, tempering and transmog.
-- **Collect everything:** gacha summons with real pity, 51 companion pets, and 60 abilities across 7 schools (including a signature ultimate for each of the 10 classes), plus achievements, titles and challenges.
-- **Gather and craft:** mining, woodcutting and fishing across 25 nodes, feeding 9 crafting recipes and an auto-crafter.
+- **Collect everything:** gacha summons with real pity, 100 companion pets, and 428 abilities across 7 schools (including a signature ultimate for each class), plus achievements, titles and challenges.
+- **Gather and craft:** six professions across 97 nodes feed the timed Forge and the Artisan Forge, where 16 craft-only lines and 112 pieces roll their rarity like a summon and land near your level. A paid Focus raises the floor.
 - **Endless progression:** prestige into Soul Gems and Ascension upgrades, then spend stardust on a 21-node Constellations talent web.
 - **A living world:** seasonal wall-clock events, a Nemesis that hunts you as a dark clone, a tavern full of minigames, and a 6x4 house you decorate and show off.
 - **Polished to play:** one-click Equip Best, bulk actions, search and sort, full keyboard and controller navigation, an interactive tutorial, and a starter kit so new heroes survive.
