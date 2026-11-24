@@ -67,7 +67,7 @@ AwayWard tells you in-game when a new version is out. Saves live in the Godot us
 
 ## What is AwayWard?
 
-AwayWard is a genuine idle MMORPG that also plays fully offline. Your hero fights monsters automatically (even while the game is closed), earning gold, XP, gear and pets. Gear up, climb an eleven-zone world map, summon companions, socket runewords, raise factions, and **rebirth** for permanent power.
+AwayWard is a genuine idle MMORPG that also plays fully offline. Your hero fights monsters automatically (even while the game is closed), earning gold, XP, gear and pets. Gear up, climb a 31-zone world map, summon companions, socket runewords, raise factions, and **rebirth** for permanent power.
 
 A live backend powers real player-to-player systems: a cross-player market, co-op parties, shared factions and clans, a server-wide world raid, async ghost-PvP in the Coliseum, a monthly community season, a house-showcase gallery, and a real leaderboard. Lose your connection (or flip on Offline Mode) and a persistent cast of simulated rivals keeps every screen playable. The online layer is co-op and trust-based, so the draw is the shared economy and community, not competitive ladders.
 
